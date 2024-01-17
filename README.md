@@ -1,6 +1,6 @@
 # Análisis de Siniestros Viales en Buenos Aires
 
-![PortadaReadme](Portada_readme.jpeg)
+![PortadaReadme](https://github.com/LeandroHerner/PI_02/blob/main/imagenes%20dashboard/portada.png)
 
 **Alumno:** HERNER LEANDRO GABRIEL
 
