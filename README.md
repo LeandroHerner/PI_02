@@ -24,7 +24,7 @@ Aquí se analiza el dataset para buscar datos faltantes, repetidos, errores, pro
 
 ### Portada
 
-![Portada](portada.png)
+![Portada](imagenes dashboard/portada.png)
 
 
 ### Página 1 - Análisis Geográfico/Temporal
