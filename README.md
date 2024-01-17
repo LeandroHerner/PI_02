@@ -24,7 +24,8 @@ Aquí se analiza el dataset para buscar datos faltantes, repetidos, errores, pro
 
 ### Portada
 
-![Screenshot](/ruta/al/portada.png)
+![Portada](portada.png)
+
 
 ### Página 1 - Análisis Geográfico/Temporal
 
@@ -35,7 +36,7 @@ En esta página se muestra un análisis de las víctimas fatales de siniestros v
 - Gráfico de barras de víctimas según día de la semana.
 - Gráfico de dona de víctimas por tipo de calle.
 
-![Screenshot](/ruta/al/screenshot.png)
+![Screenshot](pagina_1.png)
 
 ### Página 2 - KPI 1
 
@@ -43,23 +44,23 @@ En esta página se realiza un análisis de los datos en función del KPI número
 - Tasa de homicidios por siniestros viales por semestre.
 - Variación porcentual de la tasa de homicidios por siniestros viales con respecto al semestre anterior. (Se indica en esta métrica si se alcanza el KPI objetivo y se señala cuántos puntos por arriba o por abajo del mismo se encuentra la métrica).
 
-![Screenshot](/ruta/al/screenshot2.png)
+![Screenshot2](pagina_2.png)
 
 ### Página 3 - KPI 2
 
 En esta página se realiza un análisis de los datos en función del KPI número 2: ‘Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.’ Se incluye un gráfico de barras que permite visualizar las víctimas totales por año de accidentes de moto desde el año 2016 hasta el año 2021 y una tabla interactiva que permite visualizar las métricas anuales. Las métricas anuales incluyen:
 - Variación porcentual de accidentes mortales en moto con respecto al año anterior (Se indica en esta métrica si se alcanza el KPI objetivo y se señala cuántos puntos por arriba o por abajo del mismo se encuentra la métrica).
 
-![Screenshot](/ruta/al/screenshot3.png)
+![Screenshot3](pagina_3.png)
 
 ### Página 4 - KPI 3
 
 En esta página se realiza un análisis de los datos en función del KPI número 3: ‘Reducir en un 10% la media mensual de accidentes mortales de peatones, en CABA, con respecto al año anterior.’ Este KPI es de elaboración propia y surge a raíz de identificar en el EDA que los peatones constituyen un gran porcentaje de las víctimas fatales involucradas en siniestros viales y, por tanto, resulta relevante entender estos hechos a fin de proponer estrategias que contribuyan a mantener seguros a los habitantes de la ciudad que deciden movilizarse a pie. A continuación, se incluyen dos gráficos realizados en el EDA que fueron el puntapié para la generación de este KPI:
 
-![Screenshot](/ruta/al/screenshot4a.png)
+![Grafico1](grafico_1.png)
 
-![Screenshot](/ruta/al/screenshot4b.png)
+![Grafico2](grafico_2.png)
 
 A fin de analizar los siniestros viales que involucran peatones, en primera instancia, se filtró a las víctimas totales (peatones) por año. Este dato se incluye en la página del dashboard en un gráfico de barras que incluye los años comprendidos entre el año 2016 y el año 2021. Se utilizó como indicador la media mensual de accidentes fatales de peatones. Dicha métrica se calculó como: Víctimas totales para un año dado / 12 meses. En el dashboard se incluye una tabla interactiva que permite visualizar este indicador para cada año. Finalmente, se incluye la variación porcentual de accidentes mortales de peatones con respecto al año anterior (Se indica en esta métrica si se alcanza el KPI objetivo y se señala cuántos puntos por arriba o por abajo del mismo se encuentra la métrica).
 
-![Screenshot](/ruta/al/screenshot4c.png)
+![Screenshot4](pagina_4.png)
